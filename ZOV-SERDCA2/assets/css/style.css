@@ -1,0 +1,473 @@
+*{ 
+    font-family: Arial, Helvetica, sans-serif;}
+.zxc{
+display: flex;
+width: 90%;
+height: 50px;
+margin: auto;
+margin-top: 10vh;
+margin-bottom: 5vh;
+justify-content: space-between;
+text-align: center;
+}
+
+.Gravity{
+font-size: x-large;
+font-weight: 700;
+}
+.box{
+    display: flex;
+    justify-content: space-between; 
+}
+.box2{
+    margin-top: 40vh;
+    display: flex;
+    justify-content: space-between; 
+}
+.box3{
+    margin-top: 40vh;
+    display: flex;
+    margin-left: 7vw;
+}
+.box2 .left{
+    width: 50%;
+    margin-left: 7vw;
+}
+.box2 .right{
+    width: 50%;
+    position: relative;
+    height: 600px;
+}
+.box2 .left .imgg{
+    width: 80%;
+}
+.box .right .fonn{
+    width: 100%;
+    height: 100%;
+}
+.box2 .right .HighText{
+    width: 90%  ;
+    font-size: 0.28in;
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+.box2    .right .MicroText{
+    width: 70%;
+    font-size: 0.18 in;
+    font-weight: lighter;
+    color: grey;
+  
+}
+.box2 .right .Prikolyhi{
+    display: flex;
+    margin-top: 65  px;
+}
+.box2 .right .Prikolyhi .jj {
+    margin-bottom: -10px;
+    font-weight: 600;
+}
+.box2 .right .Prikolyhi .qq{
+    color: gray;
+}
+.box2 .right .Prikolyhi .jopka{
+    display: block;
+}
+.box2 .right .Prikolyhi .Fotka{
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    margin-right: 30px;
+}
+.box .right{
+width: 50%;
+position: relative;
+height: 600px;
+}
+.box .left .MicroText{
+    width: 70%;
+    font-size: 0.18 in;
+    font-weight: lighter;
+    color: grey;
+  
+}
+.box .left{
+    width: 50%;
+    margin-left: 7vw;
+}
+.box .right .chelik{
+position: absolute;
+top: 45%;
+left: -20%;
+}
+.box .left .button{
+    color: white;
+    background-color: #4737FF;
+    width: 200px;
+    height: 50px;
+    font-size: 0.2in;
+    font-weight: 500;
+    letter-spacing: 3px;
+}
+.LargeText{
+    font-size: 0.5in;
+    font-weight: 800;
+}
+.poloska{
+    display: flex;
+    position: relative;
+    width: 50%;
+    top: 25%;
+}
+.poloska hr{
+    background-color: gray;
+    width: 90%;
+    height: 1px;
+    align-self: center;
+}
+.poloska .kk{
+    background-color: orange;
+    width: 40%;
+    height: 1px;
+    position:absolute;
+    left: 10%;
+    
+}
+.box3 .up {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: -13%;
+}
+.box3 .up .left{
+    padding-right:  25vw;
+    font-size: 0.4in;
+    font-weight:bolder;
+    margin-top: -5%;
+}
+.box3 .up .right{
+    padding-right: 5vw;
+    font-size: 0.2in;
+    font-weight:bolder;
+    display: flex;
+    justify-content: space-between;
+    margin-top: -5%;
+}
+.cherta{
+    height: 150px;  
+}
+.verh{
+    letter-spacing: 3px;
+    font-weight: 600;
+    height: 10%; 
+    padding-left: 7vw;
+    padding-top: 15vh;
+    color: gray;
+}
+.column1{
+    font-weight: 600;
+    margin-left: -35vw;
+    font-size: large;
+    color: gray;
+}
+.column2{
+    font-weight: 600;
+    padding-right: 5vw;
+    font-size: large;
+    color: gray;
+}
+.box4{
+    padding-left: 7vw;
+    padding-top: 8vh;
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.box4 .prikol1 {
+    overflow: hidden;
+    padding-left: 3vw;
+    opacity: 30%;
+}
+.box4 .prikol2 .knopka2{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 362px;
+    top: 40%;
+    border: none;
+   background-color: red;
+   overflow: hidden;
+}
+.box4 .prikol2{
+    position: relative;
+}
+.box4 .prikol2 .knopka2 .wwq{
+    position: absolute;
+    width: 110px;
+    height: 110px;
+    left: -5px;
+    top: -5px;
+}
+.naviga{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 7vw;
+    padding-top: 9vh;
+
+}
+.NONE{
+    display: flex;
+   border: none;
+   
+}
+.naviga .riggg{
+    padding-right: 86%;
+}
+.box5{
+    padding-bottom: 55vh;
+    padding-right: 8vw;
+    padding-top: 8vh;
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box5 .left .kazyavki{
+    position: relative;
+}
+.box5 .left .kazyavki .slave{
+    position: absolute;
+    width: 350px;
+    height: 453px;
+    left:55%;
+    top: 25%;
+
+}
+.box5 .left{
+    width: 50%;
+}
+.box5 .left .kazyavki .master{
+    width: 570px;
+    height: 400px;
+
+}
+.box5 .right{
+    margin-left: 13svw;
+}
+.jirnyi{
+    font-weight: 600;
+    color: black;
+    font-size: 0.42in    ;
+}
+.melkiy{
+    font-size: 0.20in;
+    font-weight: lighter;
+    color: grey;
+}
+.box5 .right .kryjok{
+    margin-bottom: 7vh;
+    background-color: lightgray;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+}
+.mama{
+    
+    display: flex;
+}
+.box5 .right .mama .kryjok .center{
+    display: block;
+    margin: 0 auto ;
+    margin-top: 15px;
+
+}
+.podsos{
+    font-weight: bolder
+    ;
+    letter-spacing: 2px;
+    margin-left: 2vw;
+}
+.nadpis{
+    top: 20%;
+    padding-left: 7vw;
+    color: gray;
+    letter-spacing: 3px;
+    font-weight: 600;
+    font-size: medium   ;
+}
+.golova{
+    display: flex;
+    justify-content: space-between;
+    font-size: small;
+    font-weight: 800;
+    justify-content: space-evenly;
+    align-items: center;
+    color: gray;
+    width: 90vw;
+}
+.box6 .new{
+    font-size: 0.3in;
+    font-weight: 800;
+    padding-right: 18vw;
+    padding-left: 4vw;
+    color:black;
+}
+.box6 .kartinki{
+    display:flex;
+    padding-left: 4vw;
+    padding-top: 10vh;
+    flex-wrap: wrap;
+}
+.box6 .kartinki .ggg{
+    width: 350px;
+    height: 450px;
+    padding-bottom: 6vh;
+    padding-left: 2vw;
+}
+.box6 .kartinki .gg{
+    width: 350px;
+    height: 450px;  
+    padding-left: 2vw;
+    padding-bottom: 4vh;
+}
+.box6 .kartinki{
+    width: 90vw;
+    height: 150vh;
+    padding-bottom: 4vh;
+}
+.box6 .kartinki .firss{
+    width: 120vw;
+    padding-left: 2vw;
+    position: relative;
+}
+.box6 .kartinki .twos{
+    width: 120vw;
+    padding-left: 2vw;
+}
+.box6 .kartinki .firss .bbutt{
+    position: absolute;
+    left: 77.5%;
+    top: 40%;
+    overflow: hidden;
+}
+.pod{
+    padding-left: 8vw;
+    color: gray;
+    font-size: medium;
+    font-weight: 600;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 90vw;
+}
+.pod .bpod{
+    align-items: baseline;
+    letter-spacing: 3px;
+    height: 45px;
+    background-color: #4737FF;
+    color: white;
+    font-size: medium;
+    font-weight: 600;
+    margin-right: 9.5%;
+}
+.box7{
+    padding-top: 20vw;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 7vw;
+    padding-right: 7vw; 
+}
+.box7 .left{
+width: 75%;
+}
+.box7  .left .qqw{
+letter-spacing: 3px;
+color: gray;
+font-weight: 600;
+}
+.box7  .left .wwq{
+    padding-top: 7vh;
+    color: black;
+    font-weight: 600;
+    font-size: 0.4in;
+    width: 90%;
+    padding-bottom: 15vh;
+}
+.box7  .left .MicroText{
+    font-weight: 600;
+
+}
+.box7  .left .GrayText{
+    font-weight: 400;
+    color: gray;
+    padding-bottom: 10vh;
+}
+.box7 .right .kilua{
+    width: 445px;
+    height: 620px;
+}
+.box7 .left .button{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    background-color: lightgrey;
+}
+.box7 .left .button img{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: -2px;
+    top: -2px;
+}
+.Client .verh{
+    justify-content: space-between;
+    padding-left: 7vw;
+    padding-right: 7vw;     
+    display: flex;
+}
+.Client .verh .left{
+    width: 105%; 
+    font-weight: 600;
+    font-size: 0.4in;
+    letter-spacing: 0px;
+    color: black; 
+}
+.Client .verh .right .nefor{
+    letter-spacing: 3px;
+    color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.Client .verh .right .nenefor{
+    letter-spacing: 0px;
+}
+.Client .niz{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 7vw;
+    padding-right: 7vw;
+}
+.Client{
+    padding-bottom: 20vh;
+}
+.Client .niz img{
+    width: auto;
+    height: auto;
+}
+footer{
+    width: 100%;
+    height: 240px;
+    background-color :#515151;
+    color: white;
+}
+.fytonari{
+    display: flex;
+    align-items: center;
+    height: 240px;
+    justify-content:space-between;
+    width: 90vw;
+}
+.Gravity{
+    padding-left: 8vw;
+    padding-right: 6vw;
+}
